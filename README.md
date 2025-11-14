@@ -16,7 +16,7 @@ update_user.php
 
 ### 3. Run
 MAMP:  
-http://localhost:8888/experiment5/edit.php?id=1  
+http://localhost:8888/experiment5/edit_user.php?id=1  
 
 ### 4. Update
 Edit user details and submit the form to update the record in the database.
