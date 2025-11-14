@@ -10,9 +10,9 @@ Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment5  
 
 Files:
-db_connect.php
-edit_user.php
-update_user.php
+- db_connect.php
+- edit_user.php
+- update_user.php
 
 ### 3. Run
 MAMP:  
